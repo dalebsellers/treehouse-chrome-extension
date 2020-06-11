@@ -1,0 +1,2 @@
+Project Idea: Create a Google Chrome Extension for Treehouse
+I would love be be able to see at a glance how much time is left to complete the course I am in and how much time is left to complete the track I am on.
